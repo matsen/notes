@@ -1,4 +1,10 @@
-More talks from LIRMM MCEB2013
+---
+layout: post
+title:  Short talks Day 1
+date:   2013-05-27 14:00:00
+categories: MCEB2013
+---
+
 
 # Michael Blum (Laboratiore TIMC-IMAG): Bayesian principal component analysis to detect genomic regions involved in local adaptation
 PCA in population genetics-- on 10K - 1M SNPs. From Caffali-Sforza.

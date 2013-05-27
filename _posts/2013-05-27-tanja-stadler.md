@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Tanja Stadler: Phylogenetics in action-- merging epidemiology and evolutionary biology"
+title:  "Tanja Stadler: Phylogenetics in action"
 date:   2013-05-27 12:28:14
-categories: phylogenetics
+categories: MCEB2013
 ---
 
-# Tanja Stadler: Phylogenetics in action-- merging epidemiology and evolutionary biology
+### Tanja Stadler: Phylogenetics in action-- merging epidemiology and evolutionary biology
+
 Joint work with Sebastien Bonhoeffer, Gabrel Leventhal, Denise Kühnert, and Alexei Drummond.
 
 Epidemiology classically uses incidence data, and fit SIR model

@@ -1,5 +1,11 @@
+---
+layout: post
+title:  "Steven Kelk: Recent advances in rooted phylogenetic networks"
+date:   2013-05-27 17:00:00
+categories: MCEB2013
+---
 
-Steven Kelk (Maastricht University, NL): Recent advances in rooted phylogenetic networks: the long road to explicit hypothesis generation
+### Steven Kelk (Maastricht University, NL): Recent advances in rooted phylogenetic networks: the long road to explicit hypothesis generation
 
 1. Introduction to rooted/evolutionary phylogenetic networks
 
@@ -15,6 +21,7 @@ Hybridization and recombination can be symmetric exchange of information, but HG
 Can we reconstruct a hybridization network knowing the trees that are inside of it?
 Reticulation parsimony: input is a set of incongruent rooted gene trees, and want a phylogenetic network that has as few reticulation events as possible.
 Solution is not unique.
+
 Many factors can cause incongruence.
 DLT reconciliations are networks-- why don't we call them such?
 Some folks are running tree analyses then trying to put things by hand.
@@ -34,6 +41,5 @@ Use low-resolution parsimony to generate hypotheses, then do something statistic
     Reconciliation generating hypotheses, then score them using parsomony.
     Use Bergthorsson et al data, test using SH.
 * SMARTIE paper from Bloomquist and Suchard.
-* Highways analysis. Bansal analysis. Dannie Durand paper where they are add incomplete lineage sorting, and only one transfer is left.
+* Highways analysis. First Bansal analysis. Dannie Durand paper where they are add incomplete lineage sorting, and only one transfer is left.
 
-Vincent Berry
