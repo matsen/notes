@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Short talks Day 1
-date:   2013-05-27 14:00:00
+title:  Short talks Day 2
+date:   2013-05-28 14:00:00
 categories: MCEB2013
 ---
 
