@@ -1,3 +1,5 @@
 name: (Fred)erick's Matsen's notes
 pygments: true
 markdown: kramdown
+safe:     true
+baseurl:  /notes
