@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nico Beerenwinkel: Cancer as an evolutionary process."
+title:  "Nico Beerenwinkel: Cancer as an evolutionary process"
 date:   2013-05-28 9:00:00
 categories: MCEB2013
 ---
