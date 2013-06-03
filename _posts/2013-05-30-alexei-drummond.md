@@ -67,12 +67,12 @@ Perfect synthesis would be:
 * parameters can be readily connected with measured quantities
 * simulation, analysis, and inference tools.
 
-Q (McVean): what are you trying to get beyond the coalescent.
-A: Our idea is to try to put everything in and see if it does make a difference.
-Q: Can you see selection going on?
-A: Example of within- and between- host evolution in HIV. The evolutionary adaptations don't help you in the next host.
-Q: Can we predict how long a given BEAST run will take?
-A: If we take dumb operators, runtime can vary by an order of magnitude, but with smarter operators we can get lots better predi
+* Q (McVean): what are you trying to get beyond the coalescent.
+* A: Our idea is to try to put everything in and see if it does make a difference.
+* Q: Can you see selection going on?
+* A: Example of within- and between- host evolution in HIV. The evolutionary adaptations don't help you in the next host.
+* Q: Can we predict how long a given BEAST run will take?
+* A: If we take dumb operators, runtime can vary by an order of magnitude, but with smarter operators we can get lots better predi
 
 
 

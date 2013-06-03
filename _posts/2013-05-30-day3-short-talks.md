@@ -89,8 +89,8 @@ Say we have duplications appearing with a given rate, and being split at a certa
 Stationary process -> can derive the distribution of stick lengths.
 See power law!
 
-Q: Why don't we see same pattern for Alu?
-A: More complex pattern of repeat introduction
+* Q: Why don't we see same pattern for Alu?
+* A: More complex pattern of repeat introduction
 
 
 ## Filip Bielejec (KU Leuven): Epoch substitution models

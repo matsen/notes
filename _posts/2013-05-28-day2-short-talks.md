@@ -133,12 +133,12 @@ Results on nucleotides: all measures give about the same story.
 Results on amino acids:
 There were a few that had an improvement in likelihood.
 
-Q: Have you tried using n-mer models? CpG's are directional.
-A: No.
-Q: Reversibility -> can get stability issues because of complex eigenvectors.
-A: Filtered out data sets for which programs failed.
-Q: You have a stationarity.
-A: I don't know how to
+* Q: Have you tried using n-mer models? CpG's are directional.
+* A: No.
+* Q: Reversibility -> can get stability issues because of complex eigenvectors.
+* A: Filtered out data sets for which programs failed.
+* Q: You have a stationary nonreversible model. Can you relax this?
+* A: I don't know how to yet.
 
 
 # George Scherriff (ETH) : phyloanatomy of early SIV infection
