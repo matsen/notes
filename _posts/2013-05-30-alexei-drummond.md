@@ -67,6 +67,7 @@ Perfect synthesis would be:
 * parameters can be readily connected with measured quantities
 * simulation, analysis, and inference tools.
 
+
 * Q (McVean): what are you trying to get beyond the coalescent.
 * A: Our idea is to try to put everything in and see if it does make a difference.
 * Q: Can you see selection going on?
