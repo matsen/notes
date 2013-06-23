@@ -5,6 +5,60 @@ date:   2013-06-22 08:30:00
 categories: Evolution2013
 ---
 
+## Graves, Christopher: Virulence evolution: Selection to increase geometric mean fitness
+* "Basic model" (Anderson and May)-- should reduce virulence
+* "Short sighted evolution" model within host (Bull and Levin 1994)
+
+His model-- higher fitness = higher virulence.
+Can derive duration of infection, number of secondary infections, transmission rate, geometric mean fitness.
+No tradeoff between transmission and mortality.
+Fitness maximized at intermediate virulence.
+
+
+
+## Hendry, Tory A; Clark, Kelley ; Baltrus, David A.: A recent evolution of entomopathogenicity within a plant pathogen, Pseudomonas syringae.
+
+Syringae is a diverse group of plant associate bateria.
+Frequently pathogen but commonly epiphtic and environmental.
+What about aphids?
+Two variants of syringae-- one pathogenic and one not.
+Fall into different clades.
+Appear to just be two losses of virulence.
+
+Not much of virulent strain needed to kill bug.
+Lots of avirulent strain can kill bug.
+
+
+
+
+
+## Bergstrom, Carl; Tanaka, Mark. Timing of antimicrobial use influences the evolution of antimicrobial resistance during disease epidemics
+
+36003	June 22nd 2:00 pm	Rational design of HCV antiviral treatments to clear infection and minimize risk of resistance
+Log in to add this item to your schedule	Disease Ecology and Evolution	Regular Oral Presentation	Ke, Ruian; Loverdo, Claude; Lloyd-Smith, James O..	disease evolution
+antimicrobial resistance
+HCV treatment strategy
+Mathematical modeling
+36004	June 22nd 2:15 pm	Host Range Expansion in the Bacteriophage Phi6
+Log in to add this item to your schedule	Disease Ecology and Evolution	Regular Oral Presentation	Dennehy, John J..	virus emergence
+Pseudomonas
+fitness
+novel host
+36005	June 22nd 2:30 pm	Pea aphid immune response to pathogen and symbiont exposure: insights from the transcriptome
+Log in to add this item to your schedule	Disease Ecology and Evolution	Regular Oral Presentation	Huynh, Lynn; Gerardo, Nicole.	pea aphid
+symbiont
+immune
+Transcriptome
+36006	June 22nd 2:45 pm	A recent evolution of entomopathogenicity within a plant pathogen, Pseudomonas syringae.
+Log in to add this item to your schedule	Disease Ecology and Evolution	Regular Oral Presentation	Hendry, Tory A; Clark, Kelley ; Baltrus, David A..	host shifts
+host-microbe interactions
+disease evolution
+bacterial evolution
+Copyright © 2000-2013, Botanical Society of America. All rights reserved
+
+
+Disease Ecology and Evolution
+
 ## McLaren, Michael: Fitness-valley crossing in subdivided populations
 
 Definition of sequential fixation.
@@ -103,3 +157,6 @@ Don't need to get TMCA of individual genes.
 Application to divergence of brown and polar bears.
 Demographic analysis with CoalHMM, assumes isolation with migration, makes 5 millions year prediction, which is surprising, previous work says 1/2 million years.
 Then they fit a more complex model, including bottlenecking, and with that they were able to get a better fit.
+
+
+
