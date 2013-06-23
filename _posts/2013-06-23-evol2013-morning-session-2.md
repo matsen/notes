@@ -100,5 +100,9 @@ Showing evidence of problems with USEARCH heuristics.
 * Build trees with UPGMA
 * Knit them back together. Because UPGMA is ultrametric, can take a subset of sequences, build a bigger tree, then knit back together.
 
+Can see a whole continuum of richness and diversity at any distance groupings.
+In particular, can look beyond first drop which appears to be sequencing error.
+Perform taxonomic classification by tree inclusion.
+
 
 
