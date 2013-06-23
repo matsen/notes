@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Evolution 2013: Population genetics theory I"
-date:   2013-06-22 08:30:00
+title:  "Evolution 2013: Morning session I"
+date:   2013-06-23 08:30:00
 categories: Evolution2013
 ---
 
