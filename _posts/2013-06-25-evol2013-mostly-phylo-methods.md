@@ -81,8 +81,8 @@ Conclusions:
 
 ## Palmer, Nathan D. ; Schwartz, Rachel S.; Cartwright, Reed A.: Sampling Tree-Space Effectively Using Distance Methods
 
-Estimate pairwise distances: delta_{ij}
-Estimate covariance matrix of the distances: sigma^2_{ij,kl}
+Estimate pairwise distances: `delta_{ij}`
+Estimate covariance matrix of the distances: `sigma^2_{ij,kl}`
 Sample N vectors of pairwise distances from a multivariate normal.
 Generate trees using neighbor-joining.
 Why would we do this?
