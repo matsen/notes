@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  Carolyn Coyne: Host-pathogen interactions at the maternal-fetal interface
-date:  2013-09-24 12:00:00
+title: "Carolyn Coyne: Host-pathogen interactions at the maternal-fetal interface"
+date: 2013-09-24 12:00:00
 categories: ad-hoc
 ---
 
-Her [lab website](http://www.cbp.pitt.edu/faculty/coyne.html).
-
-Some of her favorite viruses:
 
 * [Coxsackie_B_virus](http://en.wikipedia.org/wiki/Coxsackie_B_virus)
 * [Vesicular_stomatitis_virus](http://en.wikipedia.org/wiki/Vesicular_stomatitis_virus)

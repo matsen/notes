@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Jesse Bloom: A mutant influenza virus that uses an N1 neuraminidase as the receptor-binding protein
-date:  2013-10-09 12:00:00
+title: "Jesse Bloom: A mutant influenza virus that uses an N1 neuraminidase as the receptor-binding protein"
+date: 2013-10-09 12:00:00
 categories: ad-hoc
 ---
+
 
 Work with Katie Hooper his graduate student.
 Work just came out in [Journal of Virology](http://jvi.asm.org/content/early/2013/09/05/JVI.01889-13.abstract).

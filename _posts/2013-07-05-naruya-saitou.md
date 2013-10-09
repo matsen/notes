@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Naruya Saitou: Evolutionary patterns of conserved non-coding regions"
-date:   2013-07-05 12:30:00
+date: 2013-07-05 12:30:00
 categories: ad-hoc
 ---
-
 
 
 He says it's year 0013. Says "we scientists should avoid Jesus Christ", and so there is no reason to use a Christian calendar.
