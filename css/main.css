@@ -13,10 +13,14 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  text-align: center;
+  font-family: 'Lora', serif;
+  font-weight: 200;
+  font-size: 18px;
+  line-height: 26px;
+  padding:30px;
+  padding-top:0;
+  margin:0px;
+  background-color:#F9F9F9;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -163,3 +167,4 @@ ul.posts span {
 #post pre.terminal code {
   background-color: #333;
 }
+
