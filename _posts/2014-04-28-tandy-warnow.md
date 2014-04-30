@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Tandy Warnow: New Methods for Inferring Species Trees in the Presence of Gene Tree Conflict Due to Incomplete Lineage Sorting"
-date:
-2014-04-28 10:00
+date: 2014-04-28 10:00
 categories: Simons2014
 ---
 
